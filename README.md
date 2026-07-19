@@ -70,10 +70,25 @@
 
 ---
 
-## 🔗 Connect With Me
+## 🔗 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ammar2195575&show_icons=true&theme=dark" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ammar2195575&layout=compact&theme=dark" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ammar2195575&theme=dark" width="70%" />
+</p>
+
+---
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ammar-hassan-cs?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/share/1EnTcvsPdy/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/ammar_._hassan_?igsh=NzRwb2cwd3JjODJz)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/ammar2195575)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ammar2195575&label=Profile%20Views&color=blue&style=flat" />
+</p>
 
