@@ -1,94 +1,312 @@
-<h1 align="center">Hi, I'm Ammar Hassan 👋</h1>
-<h3 align="center">Computer Science Student | AI/ML & Web Dev Enthusiast</h3>
+<div align="center">
+
+# 👋 Hi, I'm Ammar Hassan
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;AI+%26+Machine+Learning+Enthusiast;Flutter+Developer;Python+Developer;Building+AI-Powered+Applications" />
+
+<p>
+<img src="https://komarev.com/ghpvc/?username=ammar2195575&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/ammar2195575?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/ammar2195575?style=for-the-badge"/>
+</p>
+
+</div>
+
+---
+
+# 💫 About Me
+
+🎓 BS Computer Science Student
+
+🤖 AI Intern @ DecodeLabs
+
+🐍 Python Intern @ Oasis Infobyte
+
+📱 Currently Building **CleanCity**
+> AI Powered Smart Waste Detection & Reporting App
+
+🌱 Currently Learning
+
+- Flutter
+- FastAPI
+- YOLOv8
+- PostgreSQL
+- Machine Learning
+- Deep Learning
+
+💬 Ask me about
+
+- Python
+- Flutter
+- AI/ML
+- FastAPI
+- Flask
+- Android Development
+
+⚡ Fun Fact
+
+> I enjoy building AI applications that solve real-world problems.
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-black?logo=python" />
-  <img src="https://img.shields.io/badge/Flask-black?logo=flask" />
-  <img src="https://img.shields.io/badge/Tkinter-black?logo=python&logoColor=yellow" />
+
+<a href="https://www.linkedin.com/in/ammar-hassan-cs">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/ammar2195575">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.instagram.com/ammar_._hassan_">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
+</a>
+
+<a href="https://www.facebook.com/share/1EnTcvsPdy/">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook"/>
+</a>
+
 </p>
 
 ---
 
-## 🔗 About Me
+# 💻 Tech Stack
 
-- 🎓 Computer Science Student
-- 💼 Currently interning as **AI Intern** @ **DecodeLabs**
-- 💼 Also interning as **Python Intern** @ **Oasis Infobyte**
-- 🧠 Currently learning: **Machine Learning, Android Development, Web Development, Python**
-- 📱 LinkedIn: [ammar-hassan-cs](https://www.linkedin.com/in/ammar-hassan-cs?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+### Programming Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://skillicons.dev/icons?i=java"/>
+
+<img src="https://skillicons.dev/icons?i=cpp"/>
+
+<img src="https://skillicons.dev/icons?i=js"/>
+
+<img src="https://skillicons.dev/icons?i=html"/>
+
+<img src="https://skillicons.dev/icons?i=css"/>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+</p>
+
+### Frameworks
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=flutter"/>
+
+<img src="https://skillicons.dev/icons?i=dart"/>
+
+<img src="https://skillicons.dev/icons?i=flask"/>
+
+<img src="https://skillicons.dev/icons?i=fastapi"/>
+
+</p>
+
+### Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+<img src="https://skillicons.dev/icons?i=androidstudio"/>
+
+<img src="https://skillicons.dev/icons?i=pycharm"/>
+
+<img src="https://skillicons.dev/icons?i=postman"/>
+
+</p>
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+## ♻️ CleanCity (Flagship Project)
+
+AI-powered Smart Waste Detection & Reporting System.
+
+### ✨ Features
+
+- 📸 Garbage Detection using YOLOv8
+- 📍 Google Maps Integration
+- 📱 Flutter Mobile App
+- ⚡ FastAPI Backend
+- 🗄 PostgreSQL Database
+- 👤 User Complaint System
+- 📊 Admin Dashboard
+- 🔔 Real-time Status Updates
+
+**Tech Stack**
+
+`Flutter` `Dart` `YOLOv8` `FastAPI`
+`Python` `PostgreSQL`
+
+</td>
+
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ammar2195575&repo=CleanCity&theme=tokyonight"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🔗 Tech Stack
-
-**Languages:**
-
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
-
-**Frameworks & Libraries:**
-
-![Flask](https://img.shields.io/badge/Flask-black?logo=flask&logoColor=white)
-![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?logo=python&logoColor=white)
-![GUI Development](https://img.shields.io/badge/GUI%20Development-262626?logo=windowsterminal&logoColor=white)
-
-**Tools:**
-
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
-
----
-
-## 🔗 Featured Projects
+## 🤖 Other Projects
 
 | Project | Description | Tech |
-|---|---|---|
-| **CleanCity App** | AI-powered Android app that detects & classifies garbage in real-time using YOLOv8, helps users report waste locations | Flutter, FastAPI, YOLOv8, PostgreSQL |
-| **Species Classifier** | Web app with a Flask backend that classifies species from user input | HTML, CSS, JavaScript, Python, Flask |
-| **Chatbot (Tkinter)** | Desktop chatbot built during DecodeLabs internship with a GUI interface | Python, Tkinter |
-| **Voice Assistant** | Python-based voice assistant that listens to voice commands and performs tasks | Python |
-| **BMI Calculator** | Calculates BMI from height & weight and categorizes the result | Python |
-| **Random Password Generator** | Generates strong random passwords based on user-defined criteria | Python |
+|---------|-------------|------|
+| 🦜 Species Classifier | Machine Learning web app for species prediction | Flask, Python |
+| 💬 AI Chatbot | Desktop chatbot with GUI | Python, Tkinter |
+| 🎤 Voice Assistant | Voice-controlled desktop assistant | Python |
+| 📊 BMI Calculator | Health calculator application | Python |
+| 🔐 Password Generator | Strong random password generator | Python |
 
 ---
 
-## 🔗 Internships & Experience
+# 💼 Experience
 
-| Organization | Role | Duration |
-|---|---|---|
-| DecodeLabs | AI Intern | Present |
-| Oasis Infobyte | Python Intern | Present |
-
----
-
-## 🔗 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ammar2195575&show_icons=true&theme=dark" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ammar2195575&layout=compact&theme=dark" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ammar2195575&theme=dark" width="70%" />
-</p>
+| Organization | Position | Status |
+|--------------|----------|--------|
+| 🤖 DecodeLabs | AI Intern | Present |
+| 🐍 Oasis Infobyte | Python Intern | Present |
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ammar-hassan-cs?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/share/1EnTcvsPdy/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/ammar_._hassan_?igsh=NzRwb2cwd3JjODJz)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/ammar2195575)
+# 🏆 Achievements
+
+- 🎓 BS Computer Science Student
+- 🤖 AI Internship Completed / Ongoing
+- 🐍 Python Internship Completed / Ongoing
+- 📱 Developing AI-based Mobile Applications
+- 🌱 Passionate about AI & Flutter Development
+
+---
+
+# 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ammar2195575&label=Profile%20Views&color=blue&style=flat" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ammar2195575&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammar2195575&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ammar2195575&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ammar2195575&theme=tokyonight&no-frame=true&row=2&column=4"/>
+
+</p>
+
+# 📊 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ammar2195575&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/ammar2195575/ammar2195575/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+</p>
+
+> ⚠️ Enable GitHub Actions to generate the snake animation automatically.
+
+---
+
+# 🎯 2026 Goals
+
+- 🚀 Complete CleanCity AI Platform
+- 📱 Publish Flutter apps on Google Play Store
+- 🤖 Master Machine Learning & Deep Learning
+- 🧠 Learn Computer Vision with YOLO & OpenCV
+- ☁️ Learn Cloud Deployment (AWS / Azure)
+- 💼 Secure a Software Engineer / AI Engineer Internship
+- ⭐ Reach 1000+ GitHub Contributions
+- 🌍 Contribute to Open Source Projects
+
+---
+
+# 📚 Currently Learning
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,python,fastapi,postgres,docker,git,github"/>
+
+</p>
+
+---
+
+# ☕ Support Me
+
+If you like my work, consider giving a ⭐ to my repositories.
+
+It motivates me to build more useful open-source projects.
+
+---
+
+# 💡 Quote of the Day
+
+<p align="center">
+
+> **"The best way to predict the future is to build it."**
+
+</p>
+
+---
+
+# 📬 Let's Connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/ammar-hassan-cs">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/ammar2195575">
+<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.instagram.com/ammar_._hassan_">
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+## 🚀 Thanks for visiting my profile!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:6A5ACD&height=120&section=footer"/>
+
+**⭐ If you like my work, don't forget to star my repositories! ⭐**
+
+</div>
