@@ -1,181 +1,264 @@
 <div align="center">
 
-# 👋 Hi, I'm Ammar Hassan
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=Ammar%20Hassan&fontSize=50&fontColor=00E5FF&animation=fadeIn&fontAlignY=40&desc=AI%20Developer%20%7C%20Flutter%20Developer%20%7C%20Python%20Developer&descAlignY=60"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;AI+%26+Machine+Learning+Enthusiast;Flutter+Developer;Python+Developer;Building+AI-Powered+Applications" />
+<h1>Hi 👋 I'm Ammar Hassan</h1>
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=ammar2195575&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/ammar2195575?style=for-the-badge"/>
-<img src="https://img.shields.io/github/stars/ammar2195575?style=for-the-badge"/>
-</p>
+<h3>
+Computer Science Student • AI Enthusiast • Flutter Developer • Python Developer
+</h3>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+Developer;Flutter+Mobile+Developer;Python+Developer;Machine+Learning+Enthusiast;Building+Real+World+Applications"/>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Ammar-hassan-dev&label=Profile+Views&color=0891b2&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/Ammar-hassan-dev?logo=github&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/Ammar-hassan-dev?style=for-the-badge"/>
 
 </div>
 
 ---
 
 # 💫 About Me
+# 💫 About Me
 
-🎓 BS Computer Science Student
+🎓 **BS Computer Science Student (2023–2027)**  
+🏫 **University of Mianwali, Pakistan**
 
-🤖 AI Intern @ DecodeLabs
+💡 I am a passionate Computer Science student with a strong interest in **Artificial Intelligence, Machine Learning, Computer Vision, Flutter Development, and Backend Development**. I enjoy building practical software solutions that solve real-world problems and continuously improve my skills through internships and hands-on projects.
 
-🐍 Python Intern @ Oasis Infobyte
+---
 
-📱 Currently Building **CleanCity**
-> AI Powered Smart Waste Detection & Reporting App
+## 🚀 Current Focus
 
-🌱 Currently Learning
+- 🤖 Developing AI-powered applications
+- 📱 Building cross-platform mobile apps with Flutter
+- 🌐 Creating web applications using Flask & FastAPI
+- 🧠 Exploring Machine Learning and Computer Vision
+- 🗄️ Working with PostgreSQL and REST APIs
+
+---
+
+## 💼 Experience
+
+- 🤖 **AI Intern** — Decode Labs
+- 🐍 **Python Development Intern** — Oasis Infobyte
+
+---
+
+## 🌱 Currently Learning
 
 - Flutter
 - FastAPI
-- YOLOv8
 - PostgreSQL
 - Machine Learning
+- Computer Vision
+- OpenCV
 - Deep Learning
+- REST APIs
 
-💬 Ask me about
+---
+
+## 🛠️ Core Skills
 
 - Python
 - Flutter
-- AI/ML
-- FastAPI
 - Flask
-- Android Development
-
-⚡ Fun Fact
-
-> I enjoy building AI applications that solve real-world problems.
+- FastAPI
+- Machine Learning
+- Artificial Intelligence
+- Computer Vision
+- PostgreSQL
+- Git & GitHub
+- HTML, CSS & JavaScript
 
 ---
+
+## 🎯 Career Objective
+
+My goal is to become an **AI Engineer / Software Engineer** by building impactful software solutions that combine Artificial Intelligence with modern web and mobile technologies. I am always eager to learn new technologies and contribute to meaningful projects.
+
+---
+
+## ⚡ Fun Fact
+
+> I enjoy transforming ideas into intelligent applications that solve real-world problems.
+
+# 🌐 Connect With Me
 
 # 🌐 Connect With Me
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/ammar-hassan-cs">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/ammar2195575">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<a href="https://github.com/Ammar-hassan-dev">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:ah2195575@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.instagram.com/ammar_._hassan_">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="https://www.facebook.com/share/1EnTcvsPdy/">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook"/>
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
+
+</p>
+
+# 💻 Tech Stack
+
+## 👨‍💻 Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,dart,js,html,css,java,cpp"/>
 
 </p>
 
 ---
 
-# 💻 Tech Stack
+## 🚀 Frameworks & Libraries
 
-### Programming Languages
+<p align="center">
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=python"/>
-
-<img src="https://skillicons.dev/icons?i=java"/>
-
-<img src="https://skillicons.dev/icons?i=cpp"/>
-
-<img src="https://skillicons.dev/icons?i=js"/>
-
-<img src="https://skillicons.dev/icons?i=html"/>
-
-<img src="https://skillicons.dev/icons?i=css"/>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
+<img src="https://skillicons.dev/icons?i=flutter,flask,fastapi"/>
 
 </p>
 
-### Frameworks
+---
 
-<p>
+## 🤖 AI / Machine Learning
 
-<img src="https://skillicons.dev/icons?i=flutter"/>
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=dart"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 
-<img src="https://skillicons.dev/icons?i=flask"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 
-<img src="https://skillicons.dev/icons?i=fastapi"/>
+<img src="https://img.shields.io/badge/Roboflow-6706CE?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Tesseract%20OCR-4B8BBE?style=for-the-badge"/>
 
 </p>
 
-### Tools
+---
 
-<p>
+## 🗄️ Databases
 
-<img src="https://skillicons.dev/icons?i=git"/>
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite"/>
 
-<img src="https://skillicons.dev/icons?i=vscode"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=androidstudio"/>
+---
 
-<img src="https://skillicons.dev/icons?i=pycharm"/>
+## 🛠️ Tools
 
-<img src="https://skillicons.dev/icons?i=postman"/>
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,pycharm,postman"/>
 
 </p>
 
 # 🚀 Featured Projects
 
 <table>
+
 <tr>
+
 <td width="50%">
 
-## ♻️ CleanCity (Flagship Project)
+## 🗑️ Clean City AI
 
-AI-powered Smart Waste Detection & Reporting System.
+AI-powered Smart Waste Management System that detects garbage, allows users to submit complaints with location, and helps improve city cleanliness.
 
-### ✨ Features
+**🔹 Technologies**
 
-- 📸 Garbage Detection using YOLOv8
-- 📍 Google Maps Integration
-- 📱 Flutter Mobile App
-- ⚡ FastAPI Backend
-- 🗄 PostgreSQL Database
-- 👤 User Complaint System
-- 📊 Admin Dashboard
-- 🔔 Real-time Status Updates
+Flutter • Python • FastAPI • PostgreSQL • Google Maps • Roboflow
 
-**Tech Stack**
+**🔗 Repository**
 
-`Flutter` `Dart` `YOLOv8` `FastAPI`
-`Python` `PostgreSQL`
+https://github.com/Ammar-hassan-dev/cleancity-flutter
 
 </td>
 
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ammar2195575&repo=CleanCity&theme=tokyonight"/>
+## 👁️ Image Text Recognition (OCR)
+
+AI-powered OCR web application that extracts text from images using OpenCV and Tesseract OCR with image preprocessing and confidence validation.
+
+**🔹 Technologies**
+
+Python • Flask • OpenCV • Tesseract OCR • HTML • CSS • JavaScript
+
+**🔗 Repository**
+
+https://github.com/Ammar-hassan-dev/decodelabs-project4-image-text-recognition
 
 </td>
+
 </tr>
+
+<tr>
+
+<td width="50%">
+
+## 🧠 AI Tech Stack Recommender
+
+Recommendation system that suggests the most suitable technology stack based on user skills using Machine Learning techniques.
+
+**🔹 Technologies**
+
+Python • Flask • TF-IDF • Cosine Similarity • HTML • CSS • JavaScript
+
+**🔗 Repository**
+
+https://github.com/Ammar-hassan-dev/decodelabs-project3-recommender
+
+</td>
+
+<td width="50%">
+
+## 🌸 Iris Species Classifier
+
+Machine Learning web application that predicts Iris flower species using the K-Nearest Neighbors algorithm.
+
+**🔹 Technologies**
+
+Python • Flask • Scikit-learn • HTML • CSS • JavaScript
+
+**🔗 Repository**
+
+https://github.com/Ammar-hassan-dev/decodelabs-project2-classifier
+
+</td>
+
+</tr>
+
 </table>
 
 ---
 
-## 🤖 Other Projects
+# 📂 More Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🦜 Species Classifier | Machine Learning web app for species prediction | Flask, Python |
-| 💬 AI Chatbot | Desktop chatbot with GUI | Python, Tkinter |
-| 🎤 Voice Assistant | Voice-controlled desktop assistant | Python |
-| 📊 BMI Calculator | Health calculator application | Python |
-| 🔐 Password Generator | Strong random password generator | Python |
+| Project | Description |
+|----------|-------------|
+| 🤖 **AI Chatbot** | Intelligent chatbot developed using Python for interactive conversations. |
+| 🎤 **Voice Assistant** | Desktop voice assistant with speech recognition and text-to-speech capabilities. |
+| ❤️ **BMI Calculator** | Desktop application for calculating Body Mass Index with health status. |
 
----
 
 # 💼 Experience
 
@@ -200,15 +283,15 @@ AI-powered Smart Waste Detection & Reporting System.
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ammar2195575&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ammar-hassan-dev&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammar2195575&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ammar-hassan-dev&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ammar2195575&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ammar-hassan-dev&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -218,14 +301,14 @@ AI-powered Smart Waste Detection & Reporting System.
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ammar2195575&theme=tokyonight&no-frame=true&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Ammar-hassan-dev&theme=tokyonight&no-frame=true&row=2&column=4"/>
 
 </p>
 
 # 📊 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ammar2195575&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ammar-hassan-dev&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -233,7 +316,7 @@ AI-powered Smart Waste Detection & Reporting System.
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/ammar2195575/ammar2195575/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+<img src="https://raw.githubusercontent.com/Ammar-hassan-dev/Ammar-hassan-dev/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
 </p>
 
 > ⚠️ Enable GitHub Actions to generate the snake animation automatically.
@@ -289,7 +372,7 @@ It motivates me to build more useful open-source projects.
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://github.com/ammar2195575">
+<a href="https://github.com/Ammar-hassan-dev">
 <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
 </a>
 
