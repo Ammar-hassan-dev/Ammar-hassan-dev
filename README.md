@@ -84,9 +84,7 @@ My goal is to become an **AI Engineer / Software Engineer** by building impactfu
 
 ## ⚡ Fun Fact
 
-> I enjoy transforming ideas into intelligent applications that solve real-world problems.
-
-# 🌐 Connect With Me
+> I enjoy transforming ideas into intelligent applications that solve real-world problems
 
 # 🌐 Connect With Me
 
