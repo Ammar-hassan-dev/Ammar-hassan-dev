@@ -23,7 +23,6 @@ Computer Science Student • AI Enthusiast • Flutter Developer • Python Deve
 ---
 
 # 💫 About Me
-# 💫 About Me
 
 🎓 **BS Computer Science Student (2023–2027)**  
 🏫 **University of Mianwali, Pakistan**
